@@ -1,0 +1,5 @@
+#!/bin/bash
+# Display current directory contents
+# Long format, numeric UID and GID, including hidden files
+ls -lan
+
