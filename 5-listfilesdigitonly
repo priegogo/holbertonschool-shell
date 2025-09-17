@@ -1,4 +1,7 @@
 #!/bin/bash
+# Display all files including hidden ones, long format with numeric IDs
+ls -lan
+#!/bin/bash
 # Display current directory contents
 # Long format, numeric UID and GID, including hidden files
 ls -lan
